@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Game/Scenes/Menu/SCN_MainMenu.unity
+    guid: ca42c2e5749beee4ca187e26c4fdc31a
+  - enabled: 1
+    path: Assets/Game/Scenes/Menu/SCN_Tutorial.unity
+    guid: 5bfb4be436ce28d4c92939efd567121a
+  - enabled: 1
+    path: Assets/Game/Scenes/Menu/SCN_LevelSelection.unity
+    guid: d03b4b95dd94b384d955b66cb3457a77
+  - enabled: 1
+    path: Assets/Game/Scenes/Level/SCN_Level1.unity
+    guid: 8f729671b900a884d8b1163af3ee33ac
+  - enabled: 1
+    path: Assets/Game/Scenes/Level/SCN_Level2.unity
+    guid: adb8132a3653ff142924e8b69b8255ea
+  - enabled: 1
+    path: Assets/Game/Scenes/Level/SCN_Level3.unity
+    guid: a65be153730ddc74b9a72147c58aa603
+  - enabled: 1
+    path: Assets/Game/Scenes/Level/SCN_Level4.unity
+    guid: 10c3f99467fba5e4cadfbf1ec0fd5e77
+  - enabled: 1
+    path: Assets/Game/Scenes/Level/SCN_Level5.unity
+    guid: d550b87965ebe50408b8aa7643d80b21
+  - enabled: 1
+    path: Assets/Game/Scenes/Level/SCN_Level6.unity
+    guid: 8049d08ab1f0102458c9fad35a0ee014
+  - enabled: 1
+    path: Assets/Game/Scenes/Level/SCN_Level7.unity
+    guid: 5f3fc63ebcb42dd4cb58ea56f25f40a6
+  - enabled: 1
+    path: Assets/Game/Scenes/Level/SCN_Level8.unity
+    guid: 0b6ecc563928e194dae603c5b9a2942c
+  - enabled: 1
+    path: Assets/Game/Scenes/Level/SCN_Level9.unity
+    guid: 6ef2413c53c0d7844817eaa4e97fa6f9
+  - enabled: 1
+    path: Assets/Game/Scenes/Level/SCN_Level10.unity
+    guid: 5ec3aa9c526f9294682410a51ce05efe
+  - enabled: 1
+    path: Assets/Game/Scenes/Level/SCN_Level11.unity
+    guid: 7aa717f43e2f3744bb248135ee9231f2
+  - enabled: 1
+    path: Assets/Game/Scenes/Level/SCN_Level12.unity
+    guid: c37dbefe0c943aa4d846be140ea5b520
+  - enabled: 1
+    path: Assets/Game/Scenes/Level/SCN_Level13.unity
+    guid: 4c03a24263e744e46bd117d37dbf6dfb
+  - enabled: 1
+    path: Assets/Game/Scenes/Level/SCN_Level14.unity
+    guid: c47bc0fa0898935498c266d6ccf2c765
+  - enabled: 1
+    path: Assets/Game/Scenes/Level/SCN_Level15.unity
+    guid: 22343d06bb2b9f243b9b1e1937982953
+  - enabled: 1
+    path: Assets/Game/Scenes/Level/SCN_Level16.unity
+    guid: 937892dc7f39e7247a45b849b0717f6c
+  - enabled: 1
+    path: Assets/Game/Scenes/Level/SCN_Level17.unity
+    guid: 3e1941eb0c73f654d9c43efed6e5caa9
+  - enabled: 1
+    path: Assets/Game/Scenes/Level/SCN_Level18.unity
+    guid: 9cb9b7400642bcf489938a0674c12b5b
+  - enabled: 1
+    path: Assets/Game/Scenes/Level/SCN_Level19.unity
+    guid: 6f4ee8e9fc611204da812d28c0d7e385
+  - enabled: 1
+    path: Assets/Game/Scenes/Level/SCN_Level20.unity
+    guid: 6d87b1a096a462f47b1cef52e73d7c60
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: c3d0b5fd7a50a764484ef759d06165fc, type: 3}
